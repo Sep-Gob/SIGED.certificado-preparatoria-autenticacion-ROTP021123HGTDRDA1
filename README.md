@@ -1,0 +1,2 @@
+# SIGED.certificado-preparatoria-autenticacion-ROTP021123HGTDRDA1
+ROTP021123HGTDRDA1
